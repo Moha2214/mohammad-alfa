@@ -1,90 +1,0 @@
-
-<!DOCTYPE html>
-<html lang="ar">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>محمد إبراهيم الأصيل - شبكة ALFA</title>
-  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: 'Cairo', sans-serif;
-      background-image: url('https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1350&q=80');
-      background-size: cover;
-      background-position: center;
-      color: #fff;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
-    .card {
-      background-color: rgba(0, 0, 0, 0.7);
-      border-radius: 20px;
-      padding: 40px;
-      max-width: 700px;
-      width: 90%;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-      text-align: right;
-    }
-    h1 {
-      font-size: 36px;
-      margin-bottom: 10px;
-      color: #00d9ff;
-    }
-    h2 {
-      font-size: 24px;
-      margin-bottom: 25px;
-      color: #ffffff;
-    }
-    p {
-      font-size: 18px;
-      line-height: 1.8;
-      color: #e0e0e0;
-    }
-    .highlight {
-      color: #00ffc3;
-      font-weight: bold;
-    }
-    .logo {
-      width: 100px;
-      margin: 0 auto 20px;
-      display: block;
-    }
-    .social {
-      text-align: center;
-      margin-top: 30px;
-    }
-    .social a {
-      margin: 0 10px;
-      color: #00ffc3;
-      text-decoration: none;
-      font-size: 20px;
-    }
-  </style>
-</head>
-<body>
-  <div class="card">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ALFA_Logo_2020.svg/512px-ALFA_Logo_2020.svg.png" alt="ALFA Logo" class="logo">
-    <h1>من هو محمد إبراهيم الأصيل؟</h1>
-    <h2 class="highlight">مؤسس شبكة ALFA</h2>
-    <p>
-      <span class="highlight">محمد إبراهيم الأصيل</span> هو شاب فلسطيني عمره 22 سنة، من مخيم المغازي في غزة. يعيش في ظروف صعبة بسبب الحرب، لكنه استطاع أن يؤسس مشروعه الخاص <span class="highlight">"شبكة ALFA"</span> متحديًا كل التحديات.
-    </p>
-    <p>
-      يتميز محمد بمهارات قوية في إدارة الشبكات، والبرمجة بلغات <span class="highlight">Java</span> و<span class="highlight">C++</span> و<span class="highlight">HTML</span>. حصل على شهادة في أمن المعلومات، وأكمل دورة في الأمن السيبراني، بالإضافة إلى شهادة <span class="highlight">Front-end</span> من منصات تعليمية أونلاين.
-    </p>
-    <p>
-      يدرس حاليًا تخصص <span class="highlight">أنظمة معلومات</span> في الجامعة، وقد أنهى سنتين من درجة البكالوريوس. محمد يطمح ليصبح رجل أعمال ناجح، ويسعى دومًا لتطوير مهاراته وتحقيق أحلامه رغم التحديات.
-    </p>
-    <div class="social">
-      <a href="https://t.me/moha2214" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30">
-      </a>
-    </div>
-    <p style="text-align:center; font-size: 20px; margin-top: 30px;"><strong>#شبكة_ALFA 🚀</strong></p>
-  </div>
-</body>
-</html>
